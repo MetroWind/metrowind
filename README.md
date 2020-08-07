@@ -6,4 +6,4 @@ I feel I’m too old for this, but since everyone else is doing this card thing,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metrowind&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visits Badge](https://badges.pufler.dev/visits/metrowind/metrowind)←
+![Visits Badge](https://badges.pufler.dev/visits/metrowind/metrowind)
