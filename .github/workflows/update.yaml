@@ -7,29 +7,19 @@ on:
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
-  github-metrics:
+  generate:
+    name: Generate
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v2
         with:
-          # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
+          repository: metrowind/github-profile
+      - uses: actions-rs/toolchain@v1
+        with:
+          toolchain: stable
+      - uses: actions-rs/cargo@v1
+        with:
+          command: build
+          args: --release
 
-          # Options
-          user: MetroWind
-          template: classic
-          base: header, activity, repositories
-          config_timezone: America/Los_Angeles
-          plugin_gists: yes
-          plugin_habits: yes
-          plugin_habits_days: 366
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_languages: yes
-          plugin_languages_colors: github
-          plugin_languages_ignored: html
-          plugin_languages_limit: 8
-          plugin_languages_recent.days: 365
-          plugin_languages_recent.load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
+      - run: target/release/github-profile ${{ secrets.METRICS_TOKEN }}
