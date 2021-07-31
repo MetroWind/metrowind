@@ -14,25 +14,25 @@ fill: rgb(201, 209, 217);
 }
   </style>
 <text x="0" y="18" width="100%">Top languages:</text>
-<text x="130" y="18" width="130"
-text-anchor="end" >Rust</text>
-<rect class="LangBar" x="150" y="6" width="450"
-height="12" />
 <text x="130" y="36" width="130"
-text-anchor="end" >C++</text>
-<rect class="LangBar" x="150" y="24" width="219.91908776757433"
+text-anchor="end" >Rust</text>
+<rect class="LangBar" x="150" y="24" width="450"
 height="12" />
 <text x="130" y="54" width="130"
-text-anchor="end" >Python</text>
-<rect class="LangBar" x="150" y="42" width="217.60990944869292"
+text-anchor="end" >C++</text>
+<rect class="LangBar" x="150" y="42" width="219.78591029097572"
 height="12" />
 <text x="130" y="72" width="130"
-text-anchor="end" >Emacs Lisp</text>
-<rect class="LangBar" x="150" y="60" width="169.3979377979714"
+text-anchor="end" >Python</text>
+<rect class="LangBar" x="150" y="60" width="217.47813035249254"
 height="12" />
 <text x="130" y="90" width="130"
+text-anchor="end" >Emacs Lisp</text>
+<rect class="LangBar" x="150" y="78" width="169.29535466102797"
+height="12" />
+<text x="130" y="108" width="130"
 text-anchor="end" >CSS</text>
-<rect class="LangBar" x="150" y="78" width="64.33842351134291"
+<rect class="LangBar" x="150" y="96" width="64.29946177783197"
 height="12" />
 <text x="0" y="126" style="font-size: 8px">
 This is a test.</text>
