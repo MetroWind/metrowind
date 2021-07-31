@@ -1,0 +1,38 @@
+<svg version="1.1" baseProfile="full"
+     width="600" height="126"
+     xmlns="http://www.w3.org/2000/svg">
+<style>
+text
+{
+font-family: monospace;
+fill: currentColor;
+font-size: 12px;
+}
+.LangBar
+{
+fill: currentColor;
+}
+  </style>
+<text x="130" y="18" width="130"
+text-anchor="end" >Rust</text>
+<rect class="LangBar" x="150" y="6" width="450"
+height="12" />
+<text x="130" y="36" width="130"
+text-anchor="end" >C++</text>
+<rect class="LangBar" x="150" y="24" width="220.60510378280136"
+height="12" />
+<text x="130" y="54" width="130"
+text-anchor="end" >Python</text>
+<rect class="LangBar" x="150" y="42" width="218.28872220873714"
+height="12" />
+<text x="130" y="72" width="130"
+text-anchor="end" >Emacs Lisp</text>
+<rect class="LangBar" x="150" y="60" width="169.92635804314202"
+height="12" />
+<text x="130" y="90" width="130"
+text-anchor="end" >CSS</text>
+<rect class="LangBar" x="150" y="78" width="64.53912091042402"
+height="12" />
+<text x="0" y="108" style="font-size: 8px">
+This is a test.</text>
+</svg>
