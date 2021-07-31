@@ -1,19 +1,18 @@
 <svg version="1.1" baseProfile="full"
-     width="600" height="144"
+     width="600" height="126"
      xmlns="http://www.w3.org/2000/svg">
 <style>
 text
 {
 font-family: monospace;
-fill: rgb(201, 209, 217);
+fill: currentColor;
 font-size: 12px;
 }
 .LangBar
 {
-fill: rgb(201, 209, 217);
+fill: currentColor;
 }
   </style>
-<text x="0", y="18" width="100%">Top languages:</text>
 <text x="130" y="18" width="130"
 text-anchor="end" >Rust</text>
 <rect class="LangBar" x="150" y="6" width="450"
@@ -34,6 +33,6 @@ height="12" />
 text-anchor="end" >CSS</text>
 <rect class="LangBar" x="150" y="78" width="64.47962032496046"
 height="12" />
-<text x="0" y="126" style="font-size: 8px">
+<text x="0" y="108" style="font-size: 8px">
 This is a test.</text>
 </svg>
