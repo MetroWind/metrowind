@@ -28,7 +28,7 @@ text-anchor="end" >Python</text>
 height="12" />
 <text x="130" y="90" width="130"
 text-anchor="end" >Emacs Lisp</text>
-<rect class="LangBar" x="150" y="78" width="158.0439844665345"
+<rect class="LangBar" x="150" y="78" width="158.1326865968594"
 height="12" />
 <text x="130" y="108" width="130"
 text-anchor="end" >CSS</text>
