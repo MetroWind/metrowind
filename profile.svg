@@ -20,19 +20,19 @@ text-anchor="end" >Rust</text>
 height="12" />
 <text x="130" y="54" width="130"
 text-anchor="end" >C++</text>
-<rect class="LangBar" x="150" y="42" width="202.58737574332937"
+<rect class="LangBar" x="150" y="42" width="200.24162990019792"
 height="12" />
 <text x="130" y="72" width="130"
 text-anchor="end" >Python</text>
-<rect class="LangBar" x="150" y="60" width="200.46018259927638"
+<rect class="LangBar" x="150" y="60" width="198.1390673850619"
 height="12" />
 <text x="130" y="90" width="130"
 text-anchor="end" >Emacs Lisp</text>
-<rect class="LangBar" x="150" y="78" width="158.1326865968594"
+<rect class="LangBar" x="150" y="78" width="156.30167866318757"
 height="12" />
 <text x="130" y="108" width="130"
 text-anchor="end" >LilyPond</text>
-<rect class="LangBar" x="150" y="96" width="79.6254983162254"
+<rect class="LangBar" x="150" y="96" width="78.70351993036981"
 height="12" />
 <text x="0" y="126" style="font-size: 8px">
 This is a test.</text>
