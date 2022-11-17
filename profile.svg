@@ -28,7 +28,7 @@ text-anchor="end" >C++</text>
 height="12" />
 <text x="130" y="90" width="130"
 text-anchor="end" >Emacs Lisp</text>
-<rect class="LangBar" x="150" y="78" width="148.63841033509246"
+<rect class="LangBar" x="150" y="78" width="148.71429072289217"
 height="12" />
 <text x="130" y="108" width="130"
 text-anchor="end" >LilyPond</text>
