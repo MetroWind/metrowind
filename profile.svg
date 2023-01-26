@@ -28,11 +28,11 @@ text-anchor="end" >C++</text>
 height="12" />
 <text x="130" y="90" width="130"
 text-anchor="end" >Emacs Lisp</text>
-<rect class="LangBar" x="150" y="78" width="148.37265648573063"
+<rect class="LangBar" x="150" y="78" width="151.70030038414944"
 height="12" />
 <text x="130" y="108" width="130"
 text-anchor="end" >LilyPond</text>
-<rect class="LangBar" x="150" y="96" width="90.37397151079266"
+<rect class="LangBar" x="150" y="96" width="90.37464703736562"
 height="12" />
 <text x="0" y="126" style="font-size: 8px">
 This is a test.</text>
