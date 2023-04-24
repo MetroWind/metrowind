@@ -32,7 +32,7 @@ text-anchor="end" >Emacs Lisp</text>
 height="12" />
 <text x="130" y="108" width="130"
 text-anchor="end" >LilyPond</text>
-<rect class="LangBar" x="150" y="96" width="103.77968300278214"
+<rect class="LangBar" x="150" y="96" width="104.46233201287555"
 height="12" />
 <text x="0" y="126" style="font-size: 8px">
 This is a test.</text>
