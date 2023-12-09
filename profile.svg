@@ -28,7 +28,7 @@ text-anchor="end" >Python</text>
 height="12" />
 <text x="130" y="90" width="130"
 text-anchor="end" >Emacs Lisp</text>
-<rect class="LangBar" x="150" y="78" width="131.27511856451378"
+<rect class="LangBar" x="150" y="78" width="131.8741138219332"
 height="12" />
 <text x="130" y="108" width="130"
 text-anchor="end" >LilyPond</text>
