@@ -23,12 +23,12 @@ text-anchor="end" >C++</text>
 <rect class="LangBar" x="150" y="42" width="143.4095853908962"
 height="12" />
 <text x="130" y="72" width="130"
-text-anchor="end" >Python</text>
-<rect class="LangBar" x="150" y="60" width="132.89389087175476"
+text-anchor="end" >Emacs Lisp</text>
+<rect class="LangBar" x="150" y="60" width="135.4449836209847"
 height="12" />
 <text x="130" y="90" width="130"
-text-anchor="end" >Emacs Lisp</text>
-<rect class="LangBar" x="150" y="78" width="131.8741138219332"
+text-anchor="end" >Python</text>
+<rect class="LangBar" x="150" y="78" width="132.89389087175476"
 height="12" />
 <text x="130" y="108" width="130"
 text-anchor="end" >LilyPond</text>
