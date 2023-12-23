@@ -20,11 +20,11 @@ text-anchor="end" >Rust</text>
 height="12" />
 <text x="130" y="54" width="130"
 text-anchor="end" >C++</text>
-<rect class="LangBar" x="150" y="42" width="143.4095853908962"
+<rect class="LangBar" x="150" y="42" width="146.23954921038478"
 height="12" />
 <text x="130" y="72" width="130"
 text-anchor="end" >Emacs Lisp</text>
-<rect class="LangBar" x="150" y="60" width="135.75685718476507"
+<rect class="LangBar" x="150" y="60" width="135.9895247640933"
 height="12" />
 <text x="130" y="90" width="130"
 text-anchor="end" >Python</text>
