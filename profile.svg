@@ -24,7 +24,7 @@ text-anchor="end" >C++</text>
 height="12" />
 <text x="130" y="72" width="130"
 text-anchor="end" >Emacs Lisp</text>
-<rect class="LangBar" x="150" y="60" width="137.2722216789713"
+<rect class="LangBar" x="150" y="60" width="137.9405221727864"
 height="12" />
 <text x="130" y="90" width="130"
 text-anchor="end" >Python</text>
