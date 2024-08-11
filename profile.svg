@@ -20,7 +20,7 @@ text-anchor="end" >Rust</text>
 height="12" />
 <text x="130" y="54" width="130"
 text-anchor="end" >C++</text>
-<rect class="LangBar" x="150" y="42" width="222.36035055982006"
+<rect class="LangBar" x="150" y="42" width="222.40215371828094"
 height="12" />
 <text x="130" y="72" width="130"
 text-anchor="end" >Emacs Lisp</text>
