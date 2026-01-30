@@ -20,7 +20,7 @@ text-anchor="end" >Rust</text>
 height="12" />
 <text x="130" y="54" width="130"
 text-anchor="end" >C++</text>
-<rect class="LangBar" x="150" y="42" width="445.3034592682625"
+<rect class="LangBar" x="150" y="42" width="447.18611489166585"
 height="12" />
 <text x="130" y="72" width="130"
 text-anchor="end" >Python</text>
