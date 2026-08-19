@@ -27,12 +27,12 @@ text-anchor="end" >Python</text>
 <rect class="LangBar" x="150" y="60" width="104.05770137183399"
 height="12" />
 <text x="130" y="90" width="130"
-text-anchor="end" >Emacs Lisp</text>
-<rect class="LangBar" x="150" y="78" width="63.00215821984074"
+text-anchor="end" >JavaScript</text>
+<rect class="LangBar" x="150" y="78" width="89.41281536057156"
 height="12" />
 <text x="130" y="108" width="130"
-text-anchor="end" >JavaScript</text>
-<rect class="LangBar" x="150" y="96" width="55.77485053707425"
+text-anchor="end" >Emacs Lisp</text>
+<rect class="LangBar" x="150" y="96" width="63.00215821984074"
 height="12" />
 <text x="0" y="126" style="font-size: 8px">
 This is a test.</text>
