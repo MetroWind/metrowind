@@ -24,11 +24,11 @@ text-anchor="end" >Rust</text>
 height="12" />
 <text x="130" y="72" width="130"
 text-anchor="end" >Python</text>
-<rect class="LangBar" x="150" y="60" width="100.56523948956628"
+<rect class="LangBar" x="150" y="60" width="129.4392037898936"
 height="12" />
 <text x="130" y="90" width="130"
 text-anchor="end" >JavaScript</text>
-<rect class="LangBar" x="150" y="78" width="86.66456756342062"
+<rect class="LangBar" x="150" y="78" width="109.88413909063011"
 height="12" />
 <text x="130" y="108" width="130"
 text-anchor="end" >Emacs Lisp</text>
